@@ -1,0 +1,17 @@
+sphinx
+numpydoc
+pandas
+matplotlib
+seaborn
+plotly
+bioinfokit
+numpy
+math
+sympy
+scipy
+time
+prettytable
+platform
+time
+pydata_sphinx_theme
+sphinx-copybutton
