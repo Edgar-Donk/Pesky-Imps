@@ -24,7 +24,7 @@ Repository
 
 You should find all the equation examples and the visualisations here.
 
-`drink up! <https://github.com/Edgar-Donk/Adams_Ale/blob/main/docs/source/index.rst>`_
+`Pesky Imps! <https://github.com/Edgar-Donk/Pesky-Imps>`_
 
 
 Read the Docs
@@ -32,7 +32,7 @@ Read the Docs
 
 Where you'll find the explanations.
 
-`Read the Docs <https://adams-ale.readthedocs.io/en/latest/index.html>`_
+`Read the Docs <https://pesky-imps.readthedocs.io/en/latest/>`_
 
 More
 ====
