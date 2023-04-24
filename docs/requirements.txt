@@ -6,7 +6,6 @@ seaborn
 plotly
 bioinfokit
 numpy
-math
 sympy
 scipy
 time
