@@ -37,10 +37,10 @@ extensions = ["sphinx.ext.autodoc",
     # "numpydoc",
     'sphinx.ext.mathjax',
     'sphinx_copybutton',
-    'matplotlib.sphinxext.plot_directive',
-    'sphinx_exec_code',
+    #'matplotlib.sphinxext.plot_directive',
+    #'sphinx_exec_code',
     #'sphinx.ext.duration',
-    'sphinx.ext.doctest',
+    #'sphinx.ext.doctest',
 ]
 
 napoleon_google_docstring = False
