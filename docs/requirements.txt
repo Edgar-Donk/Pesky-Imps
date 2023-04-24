@@ -1,16 +1,4 @@
 sphinx
 numpydoc
-pandas
-matplotlib
-seaborn
-plotly
-bioinfokit
-numpy
-sympy
-scipy
-time
-prettytable
-platform
-time
 pydata_sphinx_theme
 sphinx-copybutton
