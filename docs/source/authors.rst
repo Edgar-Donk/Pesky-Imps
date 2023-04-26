@@ -163,3 +163,23 @@ Water Properties
    :class: only-dark
 
 Simplified but accurate water properties with interactive altair plots.
+
+Dataframe
+---------
+
+.. _framed: https://frameyourdata.readthedocs.io/en/latest/index.html
+
+.. image:: _static/ben_framed.png
+   :width: 653
+   :height: 104
+   :target: framed_
+   :class: only-light
+
+.. image:: _static/ben_framedneon.png
+   :width: 653
+   :height: 104
+   :target: framed_
+   :class: only-dark
+
+Load data, change the names and the layout (wide or long format), clean, save 
+and visualise the data.
