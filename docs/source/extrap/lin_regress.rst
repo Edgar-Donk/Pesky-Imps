@@ -44,8 +44,8 @@ data is biased and the fit needs correcting.
 When in Python we are a bit spoilt for choice numpy, scipy, statsmodels,
 sklearn and others. Use the one that suits the application best. Here's one 
 to add to the mix, use it to see how the linear regression works rather than
-use for major applications. From `Regression <https://web.stanford.edu/class/stats110/notes/Chapter7/Regression.html>`_
-and `Inference <https://web.stanford.edu/class/stats110/notes/Chapter7/Inference.html>`_
+use for major applications. From `Regression <https://web.stanford.edu/class/stats191/markdown/Chapter7/Simple_Linear_Regression.html>`_
+and `Inference <https://web.stanford.edu/class/archive/cs/cs109/cs109.1218/files/student_drive/8.1.pdf>`_
 
 .. container:: toggle
 
