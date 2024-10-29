@@ -1,4 +1,4 @@
-
+﻿
 Halving the Interval
 ====================
 
